@@ -1,4 +1,4 @@
-stream;its
+streamlits
 sklearn-learn
 pandas
 numpy
